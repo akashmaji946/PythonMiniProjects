@@ -1,4 +1,4 @@
-# Solution
+
 
 def string_reverser(our_string):
 
